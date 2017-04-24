@@ -1,24 +1,17 @@
-# README
+# minihack_app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Vittunyuta Maeprasart
 
-Things you may want to cover:
+Jiranan Patrathamakul
 
-* Ruby version
+Chawakorn Suphepre
 
-* System dependencies
+Pawan Intawongsa
 
-* Configuration
+https://minihackappwatt.herokuapp.com/static_pages/Page1
 
-* Database creation
+https://minihackappwatt.herokuapp.com/static_pages/Page2
 
-* Database initialization
+https://minihackappwatt.herokuapp.com/static_pages/Page3
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://github.com/winChawakorn/minihack_app
