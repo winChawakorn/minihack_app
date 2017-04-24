@@ -1,12 +1,12 @@
 # minihack_app
 
-Vittunyuta Maeprasart
+Vittunyuta Maeprasart 5910545019
 
-Jiranan Patrathamakul
+Jiranan Patrathamakul 5910545655
 
-Chawakorn Suphepre
+Chawakorn Suphepre  5910545671
 
-Pawan Intawongsa
+Pawan Intawongsa  5910545752
 
 https://minihackappwatt.herokuapp.com/static_pages/Page1
 
